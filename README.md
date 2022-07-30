@@ -8,4 +8,6 @@ Export data from Couchbase 'Travel Sample', add a new column and update csv file
 - updates csv file 
 
 *database.py* contains TravelSample class with a connection to the database and all necessary queries. 
+
+
 *cluster_credentials.py* contains information needed to connect to the database.
